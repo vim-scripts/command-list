@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3268
+
+Command list allowed you to define a list(group) of command
+Define a shortcut to display the list, from there you can choose a command to execute. Command list is written in ruby so your vim need +ruby supported
+
+Screenshot:
+
+http://vim.wikia.com/wiki/File:Screen_shot.png
+
+For any question please put it on this script's wiki page
+
+http://vim.wikia.com/wiki/Script:3268
+
